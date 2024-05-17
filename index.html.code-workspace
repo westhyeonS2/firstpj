@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"path": "../12.가상클래스 2"
+		},
+		{
+			"path": "../13.chilsungcider"
+		},
+		{
+			"path": "../9.Navi연습"
+		},
+		{
+			"path": "../8.슬라이드 연습"
+		},
+		{
+			"path": "../14.wconcept"
+		},
+		{
+			"path": "../10.form"
+		},
+		{
+			"path": "../15.transform"
+		},
+		{
+			"path": "../2.css기초"
+		},
+		{
+			"path": "../16.transition"
+		},
+		{
+			"path": "../17.animation"
+		},
+		{
+			"path": "../19.애니+영상포폴작품"
+		},
+		{
+			"path": "../5.font,awesome,gr,reset,오픈그래프,파비콘"
+		},
+		{
+			"path": "../20.Navi_pj"
+		},
+		{
+			"path": "../21.어쩌다발견한하루"
+		},
+		{
+			"path": "../22.media Query"
+		},
+		{
+			"path": "../23.media query포폴작품"
+		},
+		{
+			"path": "../24.bootstrap,깃허브,코드펜"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "git"
+	}
+}
